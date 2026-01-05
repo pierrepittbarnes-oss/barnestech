@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="En">
+<head>
+<meta charset="UTF-8">
+<meta name" viewport" content="witdth=device-witdh initial-scale=1.0">
+<title>Undo</title>
+</head>
+
+<body>
+<img src="">
+<li><a> href="#">Policy privacy<a/><li>
+</body>
+
+

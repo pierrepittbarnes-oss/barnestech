@@ -1,0 +1,26 @@
+<!Doctype html>
+<html lang=En>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content= ="witdth=device-witdth-initial-scale=1.0">
+<title> New Products</title>
+ <ul>
+<li>Laptop</li>
+<li>Smartphone</li>
+<li>Smartwach</li>
+<li>Headphone</li>
+ </ul>
+ </head>
+ 
+ 
+  <body>
+ <ul>
+ <li>Tablets</li>
+ <li>Digital camera</li>
+ <li>Bluetooth speaker</li>
+ <li>USB drives</li>
+ </ul>
+  </body>
+
+
+ 
